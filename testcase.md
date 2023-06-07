@@ -1,4 +1,4 @@
-#Test Case Document
+# Test Case Document
 This document outlines various scenarios to test in the React Native app. The test cases cover different functionalities and features of the app. The tests include both unit tests using the Jest testing framework and manual testing.
 
 ##Test Scenarios
