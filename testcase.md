@@ -5,8 +5,8 @@ This document outlines various scenarios to test in the React Native app. The te
 ## Test Scenarios
 ### User Interface
 
-⋅⋅* Verify that all the screens are displayed correctly with the expected layout and design.
-⋅⋅* Test the responsiveness of the UI across different device screen sizes and orientations.
+* Verify that all the screens are displayed correctly with the expected layout and design.
+⋅* Test the responsiveness of the UI across different device screen sizes and orientations.
 ⋅⋅ Ensure that all buttons, inputs, and interactive elements are functional and responsive.
 ### Navigation
 
